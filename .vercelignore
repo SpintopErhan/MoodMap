@@ -1,0 +1,5 @@
+node_modules/thread-stream/test/**
+node_modules/**/test/**
+node_modules/**/tests/**
+node_modules/**/syntax-error.mjs
+node_modules/**/close-on-gc.js
