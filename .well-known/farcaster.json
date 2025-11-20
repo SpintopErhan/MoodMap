@@ -1,0 +1,8 @@
+{
+  "accountAssociations": [
+    {
+      "account": "fc_fid:482011",  // burayı senin FID'inle değiştireceğiz, sonra söylerim nasıl bulacağını
+      "signatureType": "eip712"
+    }
+  ]
+}
